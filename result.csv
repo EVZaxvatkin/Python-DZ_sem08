@@ -1,0 +1,5 @@
+Basic_path;unit_type;unit_name;unit_size; parent_dir
+D:\;Directory;О животных;3662734;
+D:\О животных;Directory;О собаках;130388;О животных
+D:\О животных\О кошках;File;Породы кошек.rtf;7;О кошках
+D:\О животных\О собаках;File;Уход за собакой.rtf;7;О собаках
